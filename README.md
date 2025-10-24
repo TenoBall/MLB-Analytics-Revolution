@@ -9,7 +9,8 @@ The analysis in this repo was updated based on the last three seasons of the MLB
 
 ### Introduction  
 
-### Hitting Stats 
+### Hitting Stats  
+![2025](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png)
 
 ### Why does OPS+ exist?
 
