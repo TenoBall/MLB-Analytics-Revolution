@@ -22,6 +22,14 @@ The analysis in this repo was updated based on the last three seasons of the MLB
 
 ### Why does OPS+ exist?
 
-### Pitching Stats
+### Pitching Stats  
+2025 pitching stats vs runs allowed:  
+![2025 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Allowed%20Plots.png)
+
+2024 pitching stats vs runs allowed:  
+![2024 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Allowed%20Plots.png)
+
+2023 pitching stats vs runs allowed:  
+![2023 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2023%20MLB%20Runs%20Allowed%20Plots.png)
 
 ### Why does ERA+ exist?
