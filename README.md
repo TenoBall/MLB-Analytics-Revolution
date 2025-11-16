@@ -15,10 +15,10 @@ The initial goal was simple: understand what team stat gave the best indication 
 <img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png" alt="2025 Hitting Stats vs Runs Scored" width="700" height="700">
 
 2024 hitting stats vs runs scored:  
-![2024 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Scored%20Plots.png)
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Scored%20Plots.png" alt="2024 Hitting Stats vs Runs Scored" width="700" height="700">
 
 2023 hitting stats vs runs scored:  
-![2023 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2023%20MLB%20Runs%20Scored%20Plots.png)
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2023%20MLB%20Runs%20Scored%20Plots.png" alt="2023 Hitting Stats vs Runs Scored" width="700" height="700">
 
 
 ### Why does OPS+ exist?
