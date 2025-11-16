@@ -12,7 +12,7 @@ The initial goal was simple: understand what team stat gave the best indication 
 
 ### Hitting Stats  
 2025 hitting stats vs runs scored:  
-![2025 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png)
+![2025 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png = 100x20)
 
 2024 hitting stats vs runs scored:  
 ![2024 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Scored%20Plots.png)
