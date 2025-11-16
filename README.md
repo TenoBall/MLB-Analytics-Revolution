@@ -11,6 +11,12 @@ The analysis in this repo was updated based on the last three seasons of the MLB
 The initial goal was simple: understand what team stat gave the best indication of a baseball team's offensive success. Offesnive success is measured in runs scored, not number of team wins. Although more runs naturally leads to more wins, offensive stats are entirely dependent on runs against. "Entirely dependent" may be hasty; a monster offensive output could have a negative mental toll on the opposing team's offensive performance. This dependency was not tested. Instead, I individually looked at Offensive Stats as a function of runs scored and Pitching Stats as a function of runs against.
 
 ### Hitting Stats  
+I compared six hitting statistics: Home Runs (HR), Batting Average (BA), On-base Percentage (OBP), Slugging Percentage (SLG), On-base plus Slugging Percentage (OPS), On-base plus Slugging Percentage Plus (OPS+). The expectation and results indicate that all six statistics have a positive correlation with runs scored. I wanted to test which is the most positively correlated with runs scored.  
+
+The below table summarizes the results per year:  
+
+
+
 2025 hitting stats vs runs scored:  
 <img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png" alt="2025 Hitting Stats vs Runs Scored" width="700" height="700">
 
