@@ -8,6 +8,7 @@ This analysis was originally completed and taught in a 2023 Satisitical Consulti
 The analysis in this repo was updated based on the last three seasons of the MLB.
 
 ### Introduction  
+The initial goal was simple: understand what team stat gave the best indication of a baseball team's offensive success. Offesnive success is measured in runs scored, not number of team wins. Although more runs naturally leads to more wins, offensive stats are entirely dependent on runs against. "Entirely dependent" may be hasty; a monster offensive output could have a negative mental toll on the opposing team's offensive performance. This dependency was not tested. Instead, I individually looked at Offensive Stats as a function of runs scored and Pitching Stats as a function of runs against.
 
 ### Hitting Stats  
 2025 hitting stats vs runs scored:  
