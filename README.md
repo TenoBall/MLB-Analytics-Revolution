@@ -18,6 +18,7 @@ The below table summarizes the results per year:
 Some high level takeaways:  
 -Batting average is truly an overrated stat. It was much lower performing than all stats but home runs. (JT Note: Could I do the same analysis for an older year?)  
 -OPS reigns supreme. It also has the least amount of general variance in importance year-over-year. If your team does both get on base and hit for power well, you will score a lot of runs. Duh.  
+-Why did every stat perform significantly worse in 2025?
 -OPS+ performs worse than just regular OPS. More like OPS- amirite hahaha. More exploration on OPS+ below.
 
 ### Why does OPS+ exist?  
