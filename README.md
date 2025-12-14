@@ -50,13 +50,15 @@ As we pull the thread further on trying to find the ideal team stat to indicate 
 
 First, let’s rediscover if the claim on OBP being more valuable holds true by doing a simple R-squared comparison of the 2023-2025 data I analyzed.  
 
-*OBP vs SLG*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/OBP%20vs%20SLG.png" alt="Isolating OBP vs SLG" width="333" height="333">  
 
 OBP outperformed SLG in two of three seasons using my simplified approach to testing their overall importance. My suspicion is that OBP is still more important overall but different factors can contribute to more success year-over-year. For instance, the 2023 season was the first season where many new rules were implemented to speed up the game, most notably the introduction of a pitch clock. Introducing this could have led to pitchers working faster than they were previously used to and giving up hits leading to a greater SLG. This is explored more in the concluding section.  
 
 To wrap up the analysis, I took a version of wOBA, Baseball Reference’s rOBA, and created the same charts as the other offensive statistics. As shown in the graph and table below, rOBA was the best indicator of Runs Scored of any of the hitting statistics in only 2024 and 2025. Was the weighting of rOBA in 2023 upended due to SLG having a greater impact on run scoring that season?  
 
-*Two OBA stats*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/rOBA%20Stats.png" alt="rOBA Trends per Year" width="500" height="333">  
+
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/Adding%20rOBA.png" alt="Adding rOBA to Summary Statistics" width="333" height="333">  
 
 ### Conclusion and Final Questions  
 
