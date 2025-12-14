@@ -34,7 +34,7 @@ When diving into team OPS and OPS+ in 2025, I immediately noticed the Texas Rang
 
 *Rangers placeholder*  
 
-My prediction seems to be spot on. Per [Baseball Savant’s Park Factor] (https://baseballsavant.mlb.com/leaderboard/statcast-park-factors) stat, the Rangers play in the second most pitcher-friendly stadium, only behind the Seattle Mariners. To take this a step further, let’s also compare the Mariners’ ranking and take the most hitter-friendly park (Colorado’s Coors Field) and see if we have similar expected OPS and OPS+ discrepancies for these teams.  
+My prediction seems to be spot on. Per [Baseball Savant’s Park Factor](https://baseballsavant.mlb.com/leaderboard/statcast-park-factors) stat, the Rangers play in the second most pitcher-friendly stadium, only behind the Seattle Mariners. To take this a step further, let’s also compare the Mariners’ ranking and take the most hitter-friendly park (Colorado’s Coors Field) and see if we have similar expected OPS and OPS+ discrepancies for these teams.  
 
 *Mariners placeholder*  
 
