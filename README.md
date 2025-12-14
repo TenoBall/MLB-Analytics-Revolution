@@ -3,14 +3,14 @@ Editor's Note: Adding a blog style notes to this analysis in README until I have
 All data gathered from Baseball Reference.  
 
 ### Foreward  
-This analysis was originally completed and taught in a 2023 Satisitical Consulting class at MIT. The legendary MIT statistician [Arnie Barnett](https://mitsloan.mit.edu/faculty/directory/arnold-i-barnett) usually taught the class while I was his lowly TA. Knowing I was enamored with sports analytics and statistics, Arnie encouraged me to teach a class on the subject and the main findings of the analysis are in this repo. The lecture was more narrative-driven and less statistics.  
+This analysis was originally completed and taught in a 2023 Statistical Consulting class at MIT. The legendary MIT statistician [Arnie Barnett](https://mitsloan.mit.edu/faculty/directory/arnold-i-barnett) usually taught the class while I was his lowly TA. Knowing I was enamored with sports analytics and statistics, Arnie encouraged me to teach a class on the subject and the main findings of the analysis are in this repo. The lecture was more narrative-driven and less statistics.  
 
 The analysis in this repo was updated based on the last three seasons of the MLB.
 
 ### Introduction  
 The initial goal was simple: understand what team stat gave the best indication of a baseball team's offensive success. Offesnive success is measured in runs scored, not number of team wins. Although more runs naturally leads to more wins, offensive stats are entirely dependent on runs against. "Entirely dependent" may be hasty; a monster offensive output could have a negative mental toll on the opposing team's offensive performance. This dependency was not tested. Instead, I individually looked at Offensive Stats as a function of runs scored and Pitching Stats as a function of runs against.
 
-### Hitting Stats  
+### Hitting Stats Overview  
 I compared six hitting statistics: Home Runs (HR), Batting Average (BA), On-base Percentage (OBP), Slugging Percentage (SLG), On-base plus Slugging Percentage (OPS), On-base plus Slugging Percentage Plus (OPS+). The expectation and results indicate that all six statistics have a positive correlation with runs scored. I wanted to test which is the most positively correlated with runs scored.  
 
 The below table summarizes the results per year:  
