@@ -15,7 +15,7 @@ I compared six hitting statistics: Home Runs (HR), Batting Average (BA), On-base
 
 The below table summarizes the results per year:  
 
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/'23%20to%20'25%20hitting%20stats%20summary.png" alt="2023 to 2025 Hitting Stat Summaries" width="700" height="700">
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/'23%20to%20'25%20hitting%20stats%20summary.png" alt="2023 to 2025 Hitting Stat Summaries" width="400" height="400">
 
 Some high level takeaways:  
 -Batting average is truly an overrated stat. It was much lower performing than all stats but home runs. (JT Note: Could I do the same analysis for an older year?)  
@@ -29,7 +29,7 @@ Before
 ### Appendix
 
 2025 hitting stats vs runs scored:  
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png" alt="2025 Hitting Stats vs Runs Scored" width="700" height="700">
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png" alt="2025 Hitting Stats vs Runs Scored" width="400" height="400">
 
 2024 hitting stats vs runs scored:  
 <img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Scored%20Plots.png" alt="2024 Hitting Stats vs Runs Scored" width="700" height="700">
