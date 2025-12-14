@@ -15,6 +15,8 @@ I compared six hitting statistics: Home Runs (HR), Batting Average (BA), On-base
 
 The below table summarizes the results per year:  
 
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/'23%20to%20'25%20hitting%20stats%20summary.png" alt="2023 to 2025 Hitting Stat Summaries" width="700" height="700">
+
 Some high level takeaways:  
 -Batting average is truly an overrated stat. It was much lower performing than all stats but home runs. (JT Note: Could I do the same analysis for an older year?)  
 -OPS reigns supreme. It also has the least amount of general variance in importance year-over-year. If your team does both get on base and hit for power well, you will score a lot of runs. Duh.  
