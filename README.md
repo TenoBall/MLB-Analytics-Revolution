@@ -66,7 +66,7 @@ To wrap up the analysis, I took a version of wOBA, Baseball Reference’s rOBA, 
 
 The 2023 MLB season saw significant changes in gameplay rules with the banning of defensive shifts and the introduction of the pitch clock. How did this contribute to how we view some of these hitting statistics? Let’s start simple:  
 
-*2022 vs 2023 stats*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/Basic%202022%20and%202023%20Stats.png" alt="Simple 2022-2023 Stats" width="333" height="333">  
 
 We immediately see a more significant number of home runs in 2023 compared to 2022. This potentially adds ammo to my hypothesis that pitchers needed more time to adjust to the pitch clock, but not claiming any causal inferences. A greater percent increase in home runs compared to runs could also lead to SLG purely being more impactful than OBP for this 2023 season.  
 
@@ -76,18 +76,18 @@ To answer the question that started this section: yes, changes in gameplay and r
 
 Essentially all statistics in 2025 showed worse performances than other years with the exception of OPS+ in 2024. Are there any immediate trends of beliefs that could explain this?  
 
-*2023-2025 basic stats*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20Outliers.png" alt="2025 Outliers" width="333" height="333"> 
 
 If we keep this as simple as possible, we can see that Runs and Home Run total were, more or less, the same in all three years. However, individual players were hitting into more outs with Double Plays and Strikeouts both at their lowest in this three year period. So, how can we try to make sense of less predictable stats in 2025? I thought a collective lack or boom of clutch hitting could lead to less predictability but OBS with runners in scoring position generally stayed the same.  
 
-*2023-2025 basic stats with RISP*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/GIDP%20and%20K's.png" alt="GIDP and K Data" width="333" height="333">  
 
 Could there be a sample space issue with a few teams just immediately breaking the trendline? Let’s bring in the 2025 plots:  
 
-*2025 with green*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/More%20Basic%20Stats.png" alt="More Basic Stats per Year" width="333" height="333">  
 
 There are a couple of huge outlier culprits that I want to take out, one that scored more runs than expected and one that scored less: Milwaukee Brewers and the Colorado Rockies, respectively. How much better do the summary statistics look without these two teams in the analysis?  
 
-*without COL and MIL*
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/Without%20MIL%20and%20COR.png" alt="Data without MIL and COR" width="333" height="333">  
 
 Overall, the statistics are not that much better. Some perform better, some do not. For this simple exercise, I’m chalking the 2025 season to a shrug shoulders and move on!  
