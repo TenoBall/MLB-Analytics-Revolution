@@ -76,7 +76,7 @@ To answer the question that started this section: yes, changes in gameplay and r
 
 Essentially all statistics in 2025 showed worse performances than other years with the exception of OPS+ in 2024. Are there any immediate trends of beliefs that could explain this?  
 
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20Outliers.png" alt="2025 Outliers" width="333" height="333"> 
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20Outliers.png" alt="2025 Outliers" width="500" height="450"> 
 
 If we keep this as simple as possible, we can see that Runs and Home Run total were, more or less, the same in all three years. However, individual players were hitting into more outs with Double Plays and Strikeouts both at their lowest in this three year period. So, how can we try to make sense of less predictable stats in 2025? I thought a collective lack or boom of clutch hitting could lead to less predictability but OBS with runners in scoring position generally stayed the same.  
 
