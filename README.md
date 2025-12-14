@@ -15,7 +15,7 @@ I compared six hitting statistics: Home Runs (HR), Batting Average (BA), On-base
 
 The below table summarizes the results per year:  
 
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/'23%20to%20'25%20hitting%20stats%20summary.png" alt="2023 to 2025 Hitting Stat Summaries" width="400" height="400">
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/'23%20to%20'25%20hitting%20stats%20summary.png" alt="2023 to 2025 Hitting Stat Summaries" width="333" height="333">
 
 Some high level takeaways:  
 -Batting average is truly an overrated stat. It was much lower performing than all stats but home runs. (JT Note: Could I do the same analysis for an older year?)  
@@ -32,13 +32,11 @@ Based on the definition of OPS+, it seems better to use it as a player compariso
 
 When diving into team OPS and OPS+ in 2025, I immediately noticed the Texas Rangers. They had an exact league average 100 OPS+ which indicated being 14th overall in OPS+ rankings among teams. Meanwhile, their OPS was 0.684 compared to a 0.719 league average slotting them into 26th in team rankings for OPS. Based on my prediction from the last paragraph, I would expect the Rangers to play in a pitching friendly park meaning that OPS could be artificially deflated because of park logistics. The below table also lists the Rangers OPS and OPS+ rankings:  
 
-*Rangers placeholder*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/Rangers.png" alt="Rangers OPS vs OPS+" width="333" height="400">  
 
 My prediction seems to be spot on. Per [Baseball Savant’s Park Factor](https://baseballsavant.mlb.com/leaderboard/statcast-park-factors) stat, the Rangers play in the second most pitcher-friendly stadium, only behind the Seattle Mariners. To take this a step further, let’s also compare the Mariners’ ranking and take the most hitter-friendly park (Colorado’s Coors Field) and see if we have similar expected OPS and OPS+ discrepancies for these teams.  
 
-*Mariners placeholder*  
-
-*Rockies placeholder*  
+<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/Mariners%20and%20Rockies.png" alt="Mariners and Rockies OPS vs OPS+" width="333" height="400">  
 
 Spot on. Every year indicates that the Rockies slug higher than they objectively should and the opposite for the Mariners.  
 
