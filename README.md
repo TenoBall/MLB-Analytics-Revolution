@@ -91,29 +91,3 @@ There are a couple of huge outlier culprits that I want to take out, one that sc
 *without COL and MIL*
 
 Overall, the statistics are not that much better. Some perform better, some do not. For this simple exercise, I’m chalking the 2025 season to a shrug shoulders and move on!  
-
-### Appendix
-
-2025 hitting stats vs runs scored:  
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Scored%20Plots.png" alt="2025 Hitting Stats vs Runs Scored" width="400" height="400">
-
-2024 hitting stats vs runs scored:  
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Scored%20Plots.png" alt="2024 Hitting Stats vs Runs Scored" width="700" height="700">
-
-2023 hitting stats vs runs scored:  
-<img src="https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2023%20MLB%20Runs%20Scored%20Plots.png" alt="2023 Hitting Stats vs Runs Scored" width="700" height="700">
-
-
-
-
-### Pitching Stats  
-2025 pitching stats vs runs allowed:  
-![2025 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2025%20MLB%20Runs%20Allowed%20Plots.png)
-
-2024 pitching stats vs runs allowed:  
-![2024 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2024%20MLB%20Runs%20Allowed%20Plots.png)
-
-2023 pitching stats vs runs allowed:  
-![2023 Hitting Stats vs Runs Scored](https://github.com/TenoBall/MLB-Analytics-Revolution/blob/main/2023%20MLB%20Runs%20Allowed%20Plots.png)
-
-### Why does ERA+ exist?
